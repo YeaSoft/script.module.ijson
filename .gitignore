@@ -1,6 +1,7 @@
 *.pyc
 *.pyo
 *.swp
+/.vscode
 .DS_Store
 lib/setup.*
 lib/tox.ini
